@@ -1,8 +1,0 @@
-
-body{font-family:Inter,Helvetica,Arial,sans-serif;background:#f7f9fb;color:#222;margin:0;padding:20px}
-.container{max-width:980px;margin:0 auto}
-.card{background:#fff;padding:16px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,0.06);margin:16px 0}
-.row{display:flex;gap:8px;flex-wrap:wrap}
-button{background:#0b74ff;color:#fff;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
-input,select{padding:8px;border:1px solid #ddd;border-radius:6px}
-#messages-list li{margin:8px 0}
